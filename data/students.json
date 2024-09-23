@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ST0001",
+    "name": "Alice Carter",
+    "age": 17,
+    "grade": "12",
+    "planet": "Zeron"
+  },
+  {
+    "id": "ST0002",
+    "name": "Leo Martinez",
+    "age": 18,
+    "grade": "11",
+    "planet": "Xandar"
+  }
+]
